@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Object",
+      "value": "Animal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fox"
+    }
+  ],
+  "description": "The first ever nft created by 0xOBJECT",
+  "image": "ipfs://QmVkKX7KVbhJ5D6dvkYXjC4SXyN6DsZy2jxAZHH4YTDWTH",
+  "name": "Foxee"
+}
